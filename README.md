@@ -1,8 +1,8 @@
 # Ajuste polinomial quadrático dos casos de Covid-19 na cidade de Belo Jardim-PE
 
-Este projeto é fruto de um trabalho proposto pelo professor Sérgio Floquet, da disciplina de cálculo numérico - UNIVASF.
+Este projeto é fruto de um trabalho proposto pelo professor Sérgio Floquet, da disciplina de cálculo numérico - UNIVASF, que tem como objetivo escolher uma cidade e realizar algumas análises acerca do covid-19, a cidade escolhida foi Belo jardim - PE.
 
-## As análises feitas são:
+## As análises realizadas foram:
 >O cálculo da média móvel de 7 dias dos casos diários, tentando observar períodos de crescimento, estabilidade e decrescimento do número de casos até os dias atuais.
 
 >Ajuste polinomial via Método dos Mínimos Quadrados, do número de casos confirmados acumulados para uma janela de 21 dias. Varrendo todos os dias dos dados realizamos uma extrapolação do ajuste efetuando uma previsão para o próximo dia dos casos confirmados acumulado. 
